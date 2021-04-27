@@ -1,0 +1,29 @@
+ header {
+     color: cadetblue;
+     font-family: cursive;
+ }
+
+ h2 {
+     text-align: end;
+ }
+
+ #inline {
+     font-size: xx-large;
+ }
+
+ section p.blue {
+     background-color: cyan;
+ }
+
+ #paintME {
+     color:black;
+     font-size: xx-small;
+ }
+
+ /* ID = # */
+ /* CLASS = . */
+ /* ELEMENT NAME */
+ /* ELEMENT_NAME #/. */
+
+
+ 
