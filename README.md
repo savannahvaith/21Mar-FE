@@ -9,7 +9,15 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: Attributes
 * :heavy_check_mark: Structural Elements
 * :heavy_check_mark: Hyperlinking
-* :x: Forms
-* :x: Input Types
+* :heavy_check_mark: Forms
+* :heavy_check_mark: Input Types
 * :heavy_check_mark: Lists
 * :x: Tables
+
+## CSS
+
+* :heavy_check_mark: Linking StyleSheets
+  * Embedded
+  * External
+  * Internal
+* :heavy_check_mark: Selectors
