@@ -6,10 +6,10 @@ This repository will look at some of the core foundations of Web Development nam
 
 * :heavy_check_mark: Introduction to HTML
 * :heavy_check_mark: Tags (Paired and Self closing)
-* :x: Attributes
-* :x: Structural Elements
-* :x: Hyperlinking
+* :heavy_check_mark: Attributes
+* :heavy_check_mark: Structural Elements
+* :heavy_check_mark: Hyperlinking
 * :x: Forms
 * :x: Input Types
-* :x: Lists
+* :heavy_check_mark: Lists
 * :x: Tables
