@@ -7,6 +7,59 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <!-- Forms to organise infromation, and gather user input -->
+    <!-- Method = How the information is passed to the server
+            GET = Appends the information to the URL
+            POST = Appnds the information to the BODY of the request that we are sending -->
+    <!-- Action = Where i want my information to go.. server location -->
+    <form method="POST" action="">
+        <input type="text" name="username" placeholder="Enter your name here:" />
+        <input type="password" name="password" placeholder="Enter your Password here:" />
+        
+        <!-- Three input types which change users keyboard type -->
+        <input type="tel" name="tel" pattern="[0-9]{11,13}" value="07456537268"/>
+        <input type="email" name="email" placeholder="enter your email"/>
+        <input type="url" placeholder="What is your github? "/>
+
+        <input type="date"/>
+
+        <!-- Checkbox and a radio button? -->
+        <br/>
+        <label>Please select your gender (choose one)</label>
+        <input type="radio" name="gender" value="male">Male</input>
+        <input type="radio" name="gender" value="female">Female</input>
+        <input type="radio" name="gender" value="prefer not to say">PNTS </input>
+        <br/>
+        <br/>
+        <label>What's your favourite food?</label>
+        <input type="checkbox">Chicken</input>
+        <input type="checkbox">Pepes</input>
+        <input type="checkbox">Nandos</input>
+        <input type="checkbox">Pita Pit</input>
+        <br/>
+
+        <select name="cars">
+            <option value="Default"> Please select:</option>
+            <option value="merc"> Merc</option>
+            <option value="Audi"> Audi</option>
+            <option value="Volvo"> Volvo</option>
+            <option value="Ferrari"> Ferrari</option>
+        </select>
+
+
+        <input list="animals"/>
+        <datalist id="animals">
+            <option value="Dog">
+            <option value="Donkey">
+            <option value="Cat">
+            <option value="Frog">
+            <option value="Pigeon">
+            <option value="Horse">
+            <option value="Other">
+        </datalist>
+
+        <button type="submit">Submit Form</button>
+        <button type="reset">Clear Values</button>
+    </form>
 </body>
 </html>
