@@ -31,15 +31,15 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: Template Literals
 * :heavy_check_mark: ASI
 
-`02-Flow-Of-Control`
+[`02-Flow-Of-Control`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/02-Flow-Of-Control.js)
 
-* :x: Truthy & Falsey
-* :x: Strict Equality
-* :x: `x++` and `++x`
-* :x: Switch Case
-* :x: For Loop
-* :x: While Loop
-* :x: Do-While Loop
+* :heavy_check_mark: Truthy & Falsey
+* :heavy_check_mark: Strict Equality
+* :heavy_check_mark: `x++` and `++x`
+* :heavy_check_mark: Switch Case
+* :heavy_check_mark: For Loop
+* :heavy_check_mark: While Loop
+* :heavy_check_mark: Do-While Loop
 
 `03-Arrays-and-Objects`
 
