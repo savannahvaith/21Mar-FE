@@ -87,3 +87,47 @@ const object1= {
 };
 
 console.log(object1);
+
+
+// JSON JavaScript Object Notation
+let myJSONObject = {
+    "tesco":[ 
+        {"productName": "7up", "price": 0.99, "quantity":5000},
+        {"productName": "flowers", "price": 15.99, "quantity":5000},
+        {"productName": "pepper", "price": 0.99, "quantity":500}
+    ], 
+    "carpark": [
+        { "make": "VW", "name": "Sheila","model": "Golf","year": 2012,"colour": "Grey"}
+    ]
+}
+
+// myJSONObject.carpark[1]= {
+//     "name":"Mercury", 
+//     "make" : "Mercedes", 
+//     "model": "c220d",
+//     "year": 2019, 
+//     "colour": "Grey"
+// }; 
+
+myJSONObject.carpark.push({
+    "name": "Mercury",
+    "make": "Mercedes",
+    "model": "c220d",
+    "year": 2019,
+    "colour": "Grey"
+});
+
+console.log(typeof myJSONObject);
+
+let convertToString = JSON.stringify(myJSONObject);
+console.log(convertToString);
+console.log(typeof convertToString);
+
+// convert from a string to an object seamlessly
+let userData = `{"name":"Sav"}`;
+
+console.log(typeof userData);
+let convertToObject = JSON.parse(userData);
+
+console.log(convertToObject);
+console.log(typeof convertToObject);
