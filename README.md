@@ -43,11 +43,11 @@ This repository will look at some of the core foundations of Web Development nam
 
 `03-Arrays-and-Objects`
 
-* :x: Arrays Explained
-* :x: `push` `pop` `shift` `unshift`
-* :x: Objects
-* :x: Looping through objects
-* :x: Enhanced for Loops
+* :heavy_check_mark: Arrays Explained
+* :heavy_check_mark: `push` `pop` `shift` `unshift`
+* :heavy_check_mark: Objects
+* :heavy_check_mark: Looping through objects
+* :heavy_check_mark: Enhanced for Loops
 * :x: JSON
 
 `04-Scope`
