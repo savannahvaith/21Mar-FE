@@ -90,3 +90,8 @@ This repository will look at some of the core foundations of Web Development nam
 * :x: Making HTTP Requests
 * :x: Understanding how to get info from an API
 * :x: How to post info to an API
+
+`10-Extra`
+
+* :x: Search Parameters
+* :x: Higher Order Functions
