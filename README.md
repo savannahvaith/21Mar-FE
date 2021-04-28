@@ -24,7 +24,7 @@ This repository will look at some of the core foundations of Web Development nam
 
 ## JavaScript
 
-`01-Fundamentals`
+[`01-Fundamentals`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/01-Fundamentals.js)
 
 * :heavy_check_mark: Data Types
 * :heavy_check_mark: Printing information to the console
