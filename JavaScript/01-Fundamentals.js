@@ -1,4 +1,4 @@
-
+'use strict';
 // let/const
 let fname = "Savannah"; // LET = A value we can change 
 const VALUE = "Doesn't change"; // CONST = Something that doesn't change!
@@ -65,3 +65,50 @@ console.log(`5 + 3 = ${val}`);
 // ` ` - Back Ticks
 
 console.log(`Mr Speaker said: "Hello" `);
+
+// DataTypes are dynamic in javascript - the compiler doesn't know the type until the program is running
+
+let camelCase = "";
+
+
+// ASI - Automatic Semi Colon Insertion 
+// 1. Add a ; when two lines are separated by an enter key
+// 2. Adds a ; when two statements are separated by a {}
+// 3. Adds a ; when RETURN BREAK CONTINUE THROWS
+
+let hello; 
+let consoleeee;
+let howYouDoing;
+
+function sayHello(){
+    return //? ;
+    { //? ;
+        "Something" //? ;
+    }
+}
+
+function sayHello(){
+    return "Something";
+}
+
+
+// Explanation of VAR and why its bad!
+
+// VAR will automatiaclly create a variable for you!
+
+var x = 12; 
+console.log(`${x} and ${y}`);
+var y = 5;
+
+
+// LET will error and say hey you can't do that
+let x1 = 23;
+console.log(`${x1} and ${y1}`);
+let y1 = 50; 
+
+function balance(){
+   available = 10000; 
+}
+
+balance();
+console.log(available);
