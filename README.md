@@ -41,14 +41,17 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: While Loop
 * :heavy_check_mark: Do-While Loop
 
-`03-Arrays-and-Objects`
+[`03-Arrays`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/03-Arrays.js)
 
 * :heavy_check_mark: Arrays Explained
 * :heavy_check_mark: `push` `pop` `shift` `unshift`
+
+[`03b-Objects`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/03b-Objects.js)
+
 * :heavy_check_mark: Objects
 * :heavy_check_mark: Looping through objects
 * :heavy_check_mark: Enhanced for Loops
-* :x: JSON
+* :heavy_check_mark: JSON
 
 `04-Scope`
 
