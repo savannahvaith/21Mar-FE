@@ -52,12 +52,12 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: Looping through objects
 * :heavy_check_mark: Enhanced for Loops
 * :heavy_check_mark: JSON
+  
+[`04-Scope`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/04-Scope.js)
 
-`04-Scope`
-
-* :x: Local and Global Scope
-* :x: Explanation of why var is :thumbs_down:
-* :x: Flag Example
+* :heavy_check_mark: Local and Global Scope
+* :heavy_check_mark: Explanation of why var is :thumbs_down:
+* :heavy_check_mark: Flag Example
 
 `05-Functions`
 
