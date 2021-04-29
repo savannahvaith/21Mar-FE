@@ -75,10 +75,10 @@ This repository will look at some of the core foundations of Web Development nam
 * :x: `Resolve` go to first `.then()`
 * :x: `Reject` go to first `.catch()`
 
-`07-DOM`
+[`06-Callbacks-and-Promises`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/07-DOM/07-Dom.js)
 
-* :x: Manipulating the DOM
-* :x: Accessing elements from HTML to JS
+* :heavy_check_mark: Manipulating the DOM
+* :heavy_check_mark: Accessing elements from HTML to JS
 * :x: Calculator Example
 
 `08-Async`
