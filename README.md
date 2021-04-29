@@ -71,20 +71,20 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: What they are
 * :heavy_check_mark: How they work
 * "Promise is a placeholder for some data that will be available immediately, sometime in the future, or possibly not at all"
-* :x: chaining `.then`
-* :x: `Resolve` go to first `.then()`
-* :x: `Reject` go to first `.catch()`
+* :heavy_check_mark: chaining `.then`
+* :heavy_check_mark: `Resolve` go to first `.then()`
+* :heavy_check_mark: `Reject` go to first `.catch()`
 
 [`07-DOM-Manipulation`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/07-DOM/07-Dom.js)
 
 * :heavy_check_mark: Manipulating the DOM
 * :heavy_check_mark: Accessing elements from HTML to JS
-* :x: Calculator Example
+* :heavy_check_mark: Calculator Example
 
-`08-Async`
+[`08-Async`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/08-Async.js)
 
-* :x: What is `Async`
-* :x: `await` keyword
+* :heavy_check_mark: What is `Async`
+* :heavy_check_mark: `await` keyword
 * We wait for a function to finish before moving on!
 
 `09-Fetch`
