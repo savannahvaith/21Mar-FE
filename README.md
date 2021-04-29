@@ -59,12 +59,12 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: Explanation of why var is :thumbs_down:
 * :heavy_check_mark: Flag Example
 
-`05-Functions`
+[`05-Functions`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/05-Functions.js)
 
-* :x: What they are / How they work
-* :x: Function Declaration
-* :x: Fnction Expression
-* :x: Anonymous Functions
+* :heavy_check_mark: What they are / How they work
+* :heavy_check_mark: Function Declaration
+* :heavy_check_mark: Fnction Expression
+* :heavy_check_mark: Anonymous Functions
 
 `06-Callbacks-and-Promises`
 
