@@ -56,7 +56,7 @@ This repository will look at some of the core foundations of Web Development nam
 [`04-Scope`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/04-Scope.js)
 
 * :heavy_check_mark: Local and Global Scope
-* :heavy_check_mark: Explanation of why var is :thumbs_down:
+* :heavy_check_mark: Explanation of why var is :-1:
 * :heavy_check_mark: Flag Example
 
 [`05-Functions`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/05-Functions.js)
