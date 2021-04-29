@@ -66,10 +66,10 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: Fnction Expression
 * :heavy_check_mark: Anonymous Functions
 
-`06-Callbacks-and-Promises`
+[`06-Callbacks-and-Promises`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/06-Callbacks-and-Promises.js)
 
-* :x: What they are
-* :x: How they work
+* :heavy_check_mark: What they are
+* :heavy_check_mark: How they work
 * "Promise is a placeholder for some data that will be available immediately, sometime in the future, or possibly not at all"
 * :x: chaining `.then`
 * :x: `Resolve` go to first `.then()`
