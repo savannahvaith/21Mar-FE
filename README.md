@@ -87,14 +87,14 @@ This repository will look at some of the core foundations of Web Development nam
 * :heavy_check_mark: `await` keyword
 * We wait for a function to finish before moving on!
 
-`09-Fetch`
+[`09-Axios`](https://github.com/savannahvaith/21Mar-FE/blob/main/JavaScript/09-ReqRes.js)
 
 * Now bring it all together
-* :x: Making HTTP Requests
-* :x: Understanding how to get info from an API
-* :x: How to post info to an API
+* :heavy_check_mark: Making HTTP Requests
+* :heavy_check_mark: Understanding how to get info from an API
+* :heavy_check_mark: How to post info to an API
 
 `10-Extra`
 
 * :x: Search Parameters
-* :x: Higher Order Functions
+* :heavy_check_mark: Higher Order Functions
